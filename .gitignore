@@ -1,0 +1,40 @@
+# Maven
+target/
+*.class
+
+# IDE - Visual Studio Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test reports
+surefire-reports/
+failsafe-reports/
+
+# Cucumber reports
+cucumber-report.html
+cucumber.json
+
+# Selenium screenshots
+screenshots/
+
+# Excel temporary/lock files
+~$*.xlsx
